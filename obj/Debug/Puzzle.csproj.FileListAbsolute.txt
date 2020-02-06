@@ -1,0 +1,15 @@
+D:\Source File\C#\Puzzle\bin\Debug\Puzzle.exe.config
+D:\Source File\C#\Puzzle\bin\Debug\Puzzle.exe
+D:\Source File\C#\Puzzle\bin\Debug\Puzzle.pdb
+D:\Source File\C#\Puzzle\bin\Debug\Interop.WMPLib.dll
+D:\Source File\C#\Puzzle\bin\Debug\AxInterop.WMPLib.dll
+D:\Source File\C#\Puzzle\obj\Debug\Interop.WMPLib.dll
+D:\Source File\C#\Puzzle\obj\Debug\AxInterop.WMPLib.dll
+D:\Source File\C#\Puzzle\obj\Debug\Puzzle.csproj.ResolveComReference.cache
+D:\Source File\C#\Puzzle\obj\Debug\Puzzle.PuzzleMain.resources
+D:\Source File\C#\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+D:\Source File\C#\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+D:\Source File\C#\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+D:\Source File\C#\Puzzle\obj\Debug\Puzzle.exe
+D:\Source File\C#\Puzzle\obj\Debug\Puzzle.pdb
+D:\Source File\C#\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
